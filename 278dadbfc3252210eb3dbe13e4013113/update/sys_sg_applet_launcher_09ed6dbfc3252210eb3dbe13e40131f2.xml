@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <access_control_type>user_roles</access_control_type>
+        <active>true</active>
+        <available_offline>true</available_offline>
+        <header_button/>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name> Servicenow HelpDesk</name>
+        <required_roles>admin</required_roles>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-23 10:01:30</sys_created_on>
+        <sys_id>09ed6dbfc3252210eb3dbe13e40131f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name> Servicenow HelpDesk</sys_name>
+        <sys_package display_value=" Servicenow HelpDesk" source="x_1609828_servicen">278dadbfc3252210eb3dbe13e4013113</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" Servicenow HelpDesk">278dadbfc3252210eb3dbe13e4013113</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_09ed6dbfc3252210eb3dbe13e40131f2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-23 10:01:30</sys_updated_on>
+        <title> Servicenow HelpDesk</title>
+    </sys_sg_applet_launcher>
+</record_update>
